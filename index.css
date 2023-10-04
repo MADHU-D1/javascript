@@ -3,12 +3,14 @@
     font-size: 36px;
     padding-top: 40px;
     padding-bottom: 20px;
+    color: green;
   }
   
   .error-message {
     color: #dc3545;
     font-family: "Roboto";
     font-size: 14px;
+    
   }
   
   .gender-field-heading {
